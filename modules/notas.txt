@@ -1,0 +1,15 @@
+Tenemos dos  formas de indicar que sistema de modulo podemos
+utilizar o  para todo el proyecto o archivo a archivo
+
+1. esto se  hace desde el  package.json
+con la  propiedad type: pero si no  le indicamos  nada  por defecto ya
+trae el sistema de common  js  no hay necesidad  de indicarselo ya que esta
+por defecto 
+
+si queremos cambiar a emascript module
+hariamos  
+
+"type": "module",
+
+con esto le indicariamos que el sistema que utilizaremos seria 
+emascript module

@@ -1,0 +1,9 @@
+Autenticacion 
+Mecanismo para ocmprobar que alguien  es quien dice ser.
+
+Verificar la identidad de un usuario en nuestro sistema.
+
+Autorizacion:
+Mecanismo para comprobar que alguien tiene acceso a  algo
+
+Por ejemplo roles de usuario

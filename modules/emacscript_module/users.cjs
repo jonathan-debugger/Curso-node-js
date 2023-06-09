@@ -1,0 +1,8 @@
+/*
+Este archivo funcionaria con common js por defecto 
+ya  que con la  extencion cjs forzariamos a que utilice este
+sistema asi le estemos indicando en el  package.json  el sistema 
+por defecto 
+o se puede hacer al  contrario
+con la extencion  .mjs
+*/

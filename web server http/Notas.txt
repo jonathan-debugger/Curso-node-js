@@ -1,0 +1,16 @@
+/*
+Comunicacion entre maquinas:
+Establecemos un lenguaje y un medio de  comunicacion
+
+Protocolo http
+estanda de la capa de transporte que nos permite comunicarnos con los  clientes
+
+Node nos da herramientas para comunicarnos con  el  so, red...
+Vamos a montar  un servidor que se comunique mediante http
+
+Node ya dispone de una libreria nativa para  montarnos un servidor ]
+la cual  es  http
+
+Terceros -> express, fastify, hapi,  koa..
+
+*/

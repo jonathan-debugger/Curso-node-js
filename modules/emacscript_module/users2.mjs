@@ -1,0 +1,7 @@
+/*
+
+Este  archivo funciona por defecto con 
+emacsript modules ya que con  la extencion mjs 
+estariamos forzando a su uso
+
+*/
